@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nederland coronavrij</title>
+    <link>/</link>
+    <description>Recent content on Nederland coronavrij</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leven met corona is ingrijpen (brandbaar)</title>
+      <link>/posts/leven-met-corona-dijken/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/leven-met-corona-dijken/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Leven met corona is ingrijpen (dijken)</title>
+      <link>/posts/leven-met-corona-blussen/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/leven-met-corona-blussen/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Leven met corona is ingrijpen (klimaat)</title>
+      <link>/posts/leven-met-corona-ingrijpen/</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/leven-met-corona-ingrijpen/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
